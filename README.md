@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash
 - 👀 I’m interested in Technology 
-- 🌱 I’m currently learning ...Parrot OS Pentration test
+- 🌱 I’m currently learning ...Parrot linux OS for Pentration test
 - 📫 How to reach me amanith2096@gmail.com
 
 <!---
