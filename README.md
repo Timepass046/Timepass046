@@ -2,7 +2,7 @@
 <h3 align="center">Civil Engineer-Turned-Front-End Developer, UX Enthusiast, Lifelong Learner, Trading Aficionado, Business Enthusiast.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timepass046" alt="timepass046" /></a> </p>
-<p [![pygame](http://img.instagram.com/p/B_LXgD0Hzgx/0.jpg)]((https://www.instagram.com/sinner_2096/) </p>
+<p align="left"> <a href="https://instagram.com/@sinner_2096" target="blank"><img src="https://img.shields.io/instagram/follow/@sinner_2096?logo=instagram&style=for-the-badge" alt="@sinner_2096" /></a> </p>
 <p align="left"> <a href="https://twitter.com/@adhya_athma" target="blank"><img src="https://img.shields.io/twitter/follow/@adhya_athma?logo=twitter&style=for-the-badge" alt="@adhya_athma" /></a> </p>
 
 - 🔭 I’m currently working on **FAGO**
